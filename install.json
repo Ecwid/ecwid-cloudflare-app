@@ -1,0 +1,53 @@
+{
+  "resources": {
+    "body": [
+      {
+        "type": "style",
+        "src": "./source/app.css"
+      },
+      {
+        "type": "script",
+        "src": "./source/app.js"
+      }
+    ]
+  },
+  "preview": {
+    "handlers": [
+      {
+        "options": ["location"],
+        "execute": "INSTALL_SCOPE.setOptions(INSTALL_OPTIONS)"
+      }
+    ]
+  },
+  "links": [{
+    "title": "Ecwid Control Panel",
+    "href": "https://my.ecwid.com"
+  }],  
+  "options": {
+    "properties": {
+      "ecwidAccount": {
+        "title": "Connect your Ecwid account",
+        "description": "Create a free account at Ecwid or connect your existing Ecwid store. The demo store is displayed in preview when no account is connected.",
+        "type": "object",
+        "format": "account",
+        "services": ["ecwid"],
+        "default": {
+          "userId": 1003
+        },
+        "required": true,
+        "order": 1
+      },    
+      "location": {
+        "title": "Pick store location on the page",
+        "description": "Click 'Pick a location' and point to the location in the preview section where you want your store to appear",
+        "order": 2,
+        "type": "object",
+        "format": "element",
+        "default": {
+          "selector": "body",
+          "method": "prepend"
+        }
+      }
+    }
+  }
+}

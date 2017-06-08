@@ -1,0 +1,57 @@
+# Full Featured E-Commerce Solution
+
+Ecwid Shopping Cart is a powerful, secure and easy-to-use online store solution that gives you a full-functioned shop on your website. Join over 1 million sellers in 175 countries and sell globally with over 40 international payment options, real-time shipping integrations and support of 45 languages.
+
+
+##Automatic Shipping and Taxes
+
+The Ecwid ecommerce plugin integrates with major carriers including USPS, UPS, FedEx, Canada Post, Australia Post, and others to automatically calculate shipping rates. Taxes are also automated and can be set-up in a few clicks.  Automated tax rate calculations are available for the U.S., Canada, and EU VAT.  Additionally, integration with TaxJar provides automatic sales tax reporting and filing in the U.S.
+
+##Facebook Ecommerce
+
+Add your online store to Facebook and sell to millions of Facebook users. No addons needed. Ecwid will automatically synchronize your products, customers, orders and inventory between your site and Facebook storefronts. Ecwid is the **#1 e-commerce app on Facebook**. Join!
+
+##eCommerce Mobile Apps
+
+Ecwid provides free mobile applications for iOS and Android to manage your store and sell on the go. Scan products, track inventory, manage sales and accept payments using your mobile device as a POS station. Your ecommerce data is automatically synchronized with your site, Facebook store and other online storefronts.
+
+##Unlimited Storage, Automatic Backups and Seamless Upgrades
+
+With Ecwid, your online store data is fully hosted on our secure servers. Regardless of the hosting or sitebuilder service you use, your Ecwid online store includes:
+
+* unlimited storage
+* regular backups
+* seamless upgrades and security updates
+
+So you don't need to worry about software updates, security patches and server maintenance – we do that for you. Your online store gets all the new ecommerce features and bug fixes automatically.
+
+##PCI DSS validated Level 1 Service Provider
+
+Ecwid is PCI DSS Level 1 certified, which is the gold standard for e-commerce solutions worldwide. This means that when selling online with the Ecwid plugin, you won’t have any problems with the bank you do business with. With 40+ payment options and secure HTTPS checkout, your Ecwid shopping cart is PCI DSS compliant from the beginning.
+
+##Premium Support
+
+Friendly and knowledgeable support experts available 24/5 so you can get immediate help when you need it. Free ecommerce community forums. Unlimited chat and phone support available in premium plans.
+
+##Sell Everywhere
+
+With Ecwid, you can include your online shop on multiple websites, blogs, social sites and ecommerce marketplaces like *Google Shopping* and *eBay* and sell simultaneously everywhere. Add your online store to as many sites as you want, manage it from one place.
+
+##Mobile Responsive Design
+
+Your online store looks perfect on smartphones and automatically adapts to your customer’s screen size: laptops, tablets, smart TVs or smart watches. Check out this [demo](http://www.ecwid.com/demo)
+
+
+##Free Plan is Available
+
+Ecwid offers a free plan that’s always available with no hidden setup charges or transaction fees. Get your online store up and running at zero cost. As your online shop grows, Ecwid grows with you. When the time is right, consider upgrading to one of our premium plans to get more robust features and preferred support. See also: [Ecwid plan and pricing](http://www.ecwid.com/pricing)
+
+
+#See Ecwid In Action
+
+* [Demo Store](http://www.ecwid.com/demo "Ecwid demo")
+* [Seller dashboard](https://my.ecwid.com/ "Ecwid Control Panel") (you will be able to create a free Ecwid account)
+
+#Ecwid Site
+
+* [www.ecwid.com](http://www.ecwid.com/ "Ecwid site")
