@@ -14,8 +14,7 @@
 
   // This runs every time the options are updated.
   function updateElement() {
-    console.log(options) // dbg
-    var ecwidStoreId = options.ecwidAccount.userId || 1003
+    var ecwidStoreId = options.ecwidAccount ? options.ecwidAccount.userId : 1003
     element = INSTALL.createElement(options.location, element)
 
     element.className = "ecwid-store"
@@ -37,7 +36,6 @@
       }, 
       {
         widgetType: 'Minicart',
-        //id: 'minicart',
         arg: ["layout=MiniAttachToProductBrowser"]
       }
     ]
