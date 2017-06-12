@@ -2,10 +2,6 @@
   "resources": {
     "body": [
       {
-        "type": "style",
-        "src": "./source/app.css"
-      },
-      {
         "type": "script",
         "src": "./source/app.js"
       }
@@ -39,7 +35,8 @@
         "format": "account",
         "services": ["ecwid"],
         "required": true,
-        "order": 1
+        "order": 1,
+        "maxItems": 1
       },    
       "location": {
         "title": "Store location",
